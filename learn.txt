@@ -1,0 +1,27 @@
+Section1 
+-----------------------------------------------------
+lesson2
+
+run-> composer create-project laravel/laravel blog
+run-> php artisan ser
+===================
+lesson3
+
+composer global require laravel/installer
+laravel => 4.2.8
+laravel new blog
+cd blog
+php artisan ser
+=======================
+lesson4
+learn html css workshop
+=======================
+
+Section2
+-----------------------------------------------------
+lesson1
+
+
+===================
+
+
